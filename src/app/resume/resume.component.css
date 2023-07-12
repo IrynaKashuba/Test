@@ -1,0 +1,23 @@
+table,
+td,
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+img {
+    width: 100px;
+}
+
+.foto,
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    width: 350px;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 15px;
+}
